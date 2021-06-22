@@ -1,7 +1,7 @@
 
 # Swahili Bible Edition
 
-A repository for Swahili bible data in JSON format
+A repository for Swahili bible data in JSON format and XML
 
 ## Structure
 
